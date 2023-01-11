@@ -1,10 +1,12 @@
 ### Hi there 👋, my name is Bryan
 #### I am a 20 year old Gamedev from the netherland
-![I am a 20 year old Gamedev from the netherland](https://sticky-tape-games.itch.io/)
+
 
 __________________________________________________________
-I make projects just for fun and sometimes for school, it allows me to be creative. 
+I make projects just for fun and sometimes for school, 
+it allows me to be creative. 
 i have a diploma from "Grafisch Lyceum Utrecht" in VR/AR.
+And i mainly code in C# whit the Unity Game Engine
 _________________________________________________________
 
 Skills: Oculus VR/ PHP / C# / Maya / MySQL
