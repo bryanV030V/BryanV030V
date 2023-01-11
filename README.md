@@ -1,20 +1,14 @@
-### Hi there 👋, my name is Bryan
-#### I am a 20 year old Gamedev from the netherland
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan Van 't veld
+=========================================================================================================================================
 
+GameDeveloper
+-------------
 
-__________________________________________________________
-I make projects just for fun and sometimes for school, 
-it allows me to be creative. 
+I am a 20 year old Gamedev from the netherland \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ I make projects just for fun and sometimes for school, it allows me to be creative. I have a diploma from "Grafisch Lyceum Utrecht" in VR/AR. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ And i mainly code in C# whit the Unity Game Engine \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-I have a diploma from "Grafisch Lyceum Utrecht" in VR/AR.
-
-And i mainly code in C# whit the Unity Game Engine
-_________________________________________________________
-
-Skills: Oculus VR/ PHP / C# / Maya / MySQL
-
-- 🔭 I’m currently working on Windows Networking 
-- 🌱 I’m currently learning Windows Server 
+*   🌍  I'm based in Utrecht
+*   🖥️  See my portfolio at [https://u533712.gluweb.nl/portfolio/](http://https://u533712.gluweb.nl/portfolio/)
+*   🧠  I'm learning Windows Server Networking
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BryanV030V)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCAVdLwvHDLsFE97nUZ4h43w)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sticky-tape-games.itch.io/)  
