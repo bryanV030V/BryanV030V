@@ -5,7 +5,8 @@
 __________________________________________________________
 I make projects just for fun and sometimes for school, 
 it allows me to be creative. 
-i have a diploma from "Grafisch Lyceum Utrecht" in VR/AR.
+
+I have a diploma from "Grafisch Lyceum Utrecht" in VR/AR.
 And i mainly code in C# whit the Unity Game Engine
 _________________________________________________________
 
