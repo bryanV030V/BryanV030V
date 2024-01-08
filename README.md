@@ -50,5 +50,6 @@ src="https://img.shields.io/twitch/status/BryanV030V?logo=twitchsx&style=for-the
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![image](https://github.com/bryanV030V/BryanV030V/assets/61687852/d800ba55-d87e-4c2c-ac8f-8431a63cbeda)
+![image](https://github.com/bryanV030V/BryanV030V/assets/61687852/d800ba55-d87e-4c2c-ac8f-8431a63cbeda) || ![image](https://github.com/bryanV030V/BryanV030V/assets/61687852/f605d414-b3e7-4815-a07b-410932bcd3aa)
+
 
