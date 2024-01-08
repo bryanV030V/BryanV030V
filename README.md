@@ -48,7 +48,5 @@ src="https://img.shields.io/twitch/status/BryanV030V?logo=twitchsx&style=for-the
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BryanV030V)  
 
-![GitHub metrics](https://metrics.lecoq.io/BryanV030V)  
-
-![Profile views](https://gpvc.arturio.dev/BryanV030V)  
+![image](https://github.com/bryanV030V/BryanV030V/assets/61687852/d800ba55-d87e-4c2c-ac8f-8431a63cbeda)
 
